@@ -52,7 +52,7 @@ The first line contains three space-separated integers, $n1$, $n2$, and $n3$, th
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-30T20:03:13.742Z  
+**Submitted:** 2026-09-30T20:03:27.642Z  
 
 ```py
 #!/bin/python3
